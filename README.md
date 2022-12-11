@@ -2,7 +2,9 @@
 
 ## Sobre a página:
 
-Este formulário foi um grande desafio para mim. É o meu primeiro trabalho autoral, que desenvolvi desde a logo, paleta cores e estrutura como um todo, utilizando as linguagens html e css. Coloquei em prática todo meu aprendizado e estudo, que sigo construindo, para me tornar proficiente em desenvolvimento web.
+Este formulário foi um grande desafio para mim. É o meu primeiro trabalho autoral, que desenvolvi desde a logo, paleta cores e estrutura como um todo, utilizando as linguagens html e css. Coloquei em prática todo meu aprendizado e estudo, que sigo construindo, para me tornar proficiente em desenvolvimento web.<br>
+
+A ilustração foi tirada do site: https://undraw.co/
 
 
 ## Layouts: 
