@@ -14,9 +14,9 @@ Este formulário foi um grande desafio para mim. É o meu primeiro trabalho auto
 
 ### Mobile :iphone:
 <div align="start">
-<img src="https://user-images.githubusercontent.com/115130772/206912754-6a44702b-88a0-465a-99e7-5670c196aa11.png" width="33%"/>                            
-<img src="https://user-images.githubusercontent.com/115130772/206912923-7b30bea8-030a-41fb-b959-d0d1c234256e.png" width="33%"/>                                         
-<img src="https://user-images.githubusercontent.com/115130772/206913379-6b5dffae-99fb-4393-a8ef-a1949faaf0e6.png" width="33%"/>
+<img src="https://user-images.githubusercontent.com/115130772/206912754-6a44702b-88a0-465a-99e7-5670c196aa11.png" width="30%"/>                            
+<img src="https://user-images.githubusercontent.com/115130772/206912923-7b30bea8-030a-41fb-b959-d0d1c234256e.png" width="30%"/>                                         
+<img src="https://user-images.githubusercontent.com/115130772/206913379-6b5dffae-99fb-4393-a8ef-a1949faaf0e6.png" width="30%"/>
 </div>
 
 
