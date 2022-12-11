@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulário</title>
+</head>
+<body>
+    <div id="bg"></div>
+    <div class="container">
+        <div class="img-form">
+            <div class="logo">
+            <img src="logo.png" alt="">
+            </div>
+            <div class="illustration">
+            <img src="img1.svg" alt="Imagem">
+            </div>
+        </div>
+        <form action="#">
+            <!-- cabeçalho do Formulário -->
+            <div class="form-header">
+                <h1>Registrar</h1>
+            </div>
+            <!-- Dados formulário -->
+            <div class="input-group">
+                <div class="input-box">
+                    <label for="f-name">Nome Completo</label><br>
+                    <input type="text" id="f-name" name="f-name" placeholder="Insira seu nome completo">
+                </div>
+                <div class="input-box">
+                    <label for="service">Escolha o tipo de Serviço</label><br>
+                    <select  name="service" id="service">
+                        <option value="si">Site Institucional</option>
+                        <option value="ct">Catálogo</option>
+                        <option value="lv">Loja Virtual</option>
+                        <option value="pp">Portfólio Profissional</option>
+                        <option value="ht">Hotsite para divulgação</option>
+                        <option value="bg">Blog</option>
+                    </select>
+                </div>
+                <div class="input-box">
+                    <label for="email">Email</label><br>
+                    <input type="email" id="email" name="email" placeholder="Insira seu email">
+                </div>
+                <div class="input-box">
+                    <label for="tel">Telefone</label><br>
+                    <input type="tel" id="tel" name="tel" placeholder="(xx) xxxx-xxxxx">
+                </div>
+                <div class="input-box">
+                    <label for="country">País</label><br>
+                    <input type="text" id="country" name="country" placeholder="Insira de país">
+                </div>
+                <div class="input-box">
+                    <label for="city">Cidade</label><br>
+                    <input type="password" id="city" name="city" placeholder="Insira sua cidade">
+                </div>
+                <div class="input-box">
+                    <label for="city">Senha</label><br>
+                    <input type="password" id="city" name="city" placeholder="Senha">
+                </div>
+                <div class="input-box">
+                    <label for="city">Confirme sua senha</label><br>
+                    <input type="password" id="city" name="city" placeholder="Confirmar senha">
+                </div>
+            </div>
+            <!-- Gênero formulário -->
+            <div class="gender-container">
+                <div class="gender-title">
+                    <h4>Gênero</h4>
+                </div>
+                <div class="gender-group">
+                    <div class="gender-input">
+                        <input type="radio" id="male" name="gender">
+                        <label for="male">Masculino</label>
+                    </div>
+                    <div class="gender-input">
+                        <input type="radio" id="female" name="gender">
+                        <label for="female">Feminino</label>
+                    </div>
+                    <div class="gender-input">
+                        <input type="radio" id="other" name="gender">
+                        <label for="other">Outros</label>
+                    </div>
+                    <div class="gender-input">
+                        <input type="radio" id="pnts" name="gender">
+                        <label for="pnts">Não Responder</label>
+                    </div>
+                </div>
+            </div>
+                <!-- Botão de criar conta -->
+            <div class="create">
+                <button><a href="">Cadastre-se</a></button>
+                <div class="question">
+                <a href="#">Já possui conta?</a>
+                </div>
+            </div>
+            <div id="circle"></div>
+        </form>
+    </div>
+</div>
+</body>
+</html>
